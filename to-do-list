@@ -1,5 +1,0 @@
-to-do-list/
-│
-├── to-do.py         # Código principal do programa
-├── tarefas.json    # Arquivo gerado automaticamente com as tarefas
-└── README.md       # Este arquivo
